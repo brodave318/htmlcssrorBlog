@@ -1,4 +1,16 @@
+body {
+  line-height: 1;
 
+  /* FULL PAGE BACKGROUND */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
 h1 {
   font-size: 100px;
+}
+
+.container {
+  width: 800px;
+  margin: 50px;
 }
